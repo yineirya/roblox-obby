@@ -24,8 +24,8 @@ This obby was coded and designed in **Roblox Studio** using **Lua scripting**. T
 
 ## 📸 Screenshots
 
-|           Game Start           |            Terrain            |
-|--------------------------------|-------------------------------|
-| ![Game Start](./game-start.png) | ![Game Over](./game-over.png) |
-|           Kill Blocks           |            Game End            |
-| ![Game Start](./game-start.png) | ![Game Over](./game-over.png) |
+|Game Start|Terrain|
+|------------------------------------|-----------------------------------|
+| ![Game Start](https://github.com/user-attachments/assets/ca94f652-05de-45b5-b3f0-f3bf2f8bafd1) | ![Terrain](https://github.com/user-attachments/assets/4c6fb5b0-d404-4ba2-bc57-ae46ab8bba1a) |  
+|<center>**Kill Blocks**</center> | <center>**Game End**</center> |
+| ![Kill Blocks](https://github.com/user-attachments/assets/9c0634cf-25be-4c64-a6b7-88d5472fe1ab) | ![Game End](https://github.com/user-attachments/assets/a6a97b22-46c4-4d94-8fe9-4e6cdbe466ef) |
